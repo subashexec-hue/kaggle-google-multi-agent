@@ -3,8 +3,6 @@ Market Intelligence AI Agents automate the creation of evidence-based business r
 
 **Subtitle:**  
 Automated, evidence-based business insights with Gemini-powered agents and real-time data
-  
-*(Replace with your actual card/thumbnail image, size 560x280)*
 
 ***
 
